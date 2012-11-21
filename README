@@ -2,6 +2,6 @@
 
 All you need to do is:
 
-- Enter your details in the places marked <your information goes here>
+- Enter your details in the places marked <your information goes here> in the manifest.json file
 - Replace "distilled-small.png" with your own logo and update its name in the manifest.json file
 - Follow the instructions here: http://www.seomoz.org/blog/building-chrome-apps-and-extensions to ship it
