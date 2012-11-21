@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "<Your app name goes here>",
+    "description": "<Your app description goes here>",
+    "version": "0.1",
+    "icons": {
+        "128": "distilled-small.png"
+    },
+    "app": {
+        "launch": {
+            "web_url": "<your URL goes here>"
+        }
+    }
+}
